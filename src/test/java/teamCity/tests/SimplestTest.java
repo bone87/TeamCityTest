@@ -28,7 +28,6 @@ public class SimplestTest{
         Assert.assertEquals(result, "Pass", "You didn't choose Pass for Simplest Test :(");
 
         logger.info("--- Finish Simplest Test ---");
-
     }
 
 }
